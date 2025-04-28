@@ -8,6 +8,6 @@
 
  [Check it out here](https://g-whittington.shinyapps.io/Question2/)
 
- ## Site Preview
+ ## App Preview
 
- [img/preview.png]
+ [The initial page upon loading into the app](img/preview.png)
