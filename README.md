@@ -6,7 +6,8 @@
 
  ## Link to App
 
- [Check it out here](https://g-whittington.shinyapps.io/Question2/)
+ []()
+ <a target="_blank" rel="noopener noreferrer" href="https://g-whittington.shinyapps.io/Question2/">Check it out here</a>
 
  ## App Preview
 
