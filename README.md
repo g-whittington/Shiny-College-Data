@@ -10,4 +10,4 @@
 
  ## App Preview
 
- [The initial page upon loading into the app](img/preview.png)
+ ![The initial page upon loading into the app](img/preview.png)
